@@ -3,7 +3,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 Email: michele.nuovo.sky@gmail.com ☎ Mobile: (+420) 601 359 665
+- 📫 Email: michele.nuovo.sky@gmail.com 
+- ☎ Mobile: (+420) 601 359 665
 
 ### Connect with me:
 
