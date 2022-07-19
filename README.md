@@ -7,7 +7,7 @@
 - 🔭 I’m an enthusiastic software developer with object-oriented programming skills and 15+ years of experience
 - 🌱 I’m currently learning for Java 11 certification
 - 👯 I’m looking forward to collaborate on your projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and play piano
 
 ### Connect with me:
