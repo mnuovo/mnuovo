@@ -36,29 +36,29 @@
 
 ### Books I recommend for software engineers 📚
 
-- **The Pragmatic Programmer** by David Thomas & Andrew Hunt  
-  One of the first books I recommend to anyone who wants to become a better software engineer. It is less about coding syntax and more about mindset, responsibility, avoiding duplication, designing for change, and staying current with technology. The updated 20th-anniversary edition makes it even more relevant.
+- 🧠 **The Pragmatic Programmer** by David Thomas & Andrew Hunt  
+  A must-read for becoming a more professional developer. It focuses on mindset, responsibility, avoiding duplication, designing for change, and staying current with technology. The updated 20th-anniversary edition makes it even more relevant.
 
-- **Clean Code** by Robert C. Martin  
-  A classic book that teaches how to write readable and maintainable code. Some rules have aged better than others, but it still contains valuable lessons on naming, structure, and testing. It pairs especially well with books about refactoring and architecture.
+- ✨ **Clean Code** by Robert C. Martin  
+  A classic on writing readable and maintainable code. It is still valuable for naming, structure, and testing, even if some examples and rules have aged.
 
-- **Refactoring** by Martin Fowler  
-  One of the most important books for working on real-world systems. Most of our work involves improving existing code rather than starting from scratch, and this book explains how to change software safely while improving its internal design. The 2nd edition uses JavaScript examples instead of Java.
+- 🏗️ **Fundamentals of Software Architecture** by Mark Richards & Neil Ford  
+  A great introduction to software architecture. It covers architectural styles, trade-offs, fitness functions, and documenting decisions that matter later.
 
-- **Head First Design Patterns** by Eric Freeman & Elisabeth Robson  
-  A very approachable introduction to object-oriented design patterns. It helps you understand common design problems and shows how patterns can improve code structure, flexibility, and maintainability.
+- 🚀 **Head First Software Architecture** by Mark Richards & Neal Ford  
+  A more beginner-friendly and visual companion to architecture concepts, ideal if you want a simpler entry point.
 
-- **Clean Architecture** by Robert C. Martin  
-  A strong book for understanding how to structure software systems in a way that keeps business logic independent from frameworks and tools. It’s especially useful if you want to build systems that are easier to test, evolve, and maintain.
+- 🔄 **Refactoring** by Martin Fowler  
+  One of the most practical books for real-world development. It explains how to improve existing code safely without changing its behavior.
 
-- **Fundamentals of Software Architecture** by Mark Richards & Neil Ford  
-  A great starting point for anyone learning software architecture. It covers architectural styles, trade-off analysis, fitness functions, and how to document design decisions. It helped make architecture feel much more practical and less abstract.
+- 🎨 **Head First Design Patterns** by Eric Freeman & Elisabeth Robson  
+  A friendly introduction to common design patterns and how they help create flexible and maintainable systems.
 
-- **Head First Software Architecture** by Mark Richards & Neal Ford  
-  A more beginner-friendly and visually rich introduction to architecture. If you want a simpler way into the topic, this is a great companion to *Fundamentals of Software Architecture*.
+- 🧱 **Clean Architecture** by Robert C. Martin  
+  Useful for learning how to structure systems so business logic stays independent from frameworks and tools.
 
-- **AI Engineering** by Chip Huyen  
-  A practical book that moves from theory into production reality. It covers model selection, evaluation, MLOps, multi-agent systems, and scaling AI applications. A strong choice if you want to build real-world AI systems.
+- 🤖 **AI Engineering** by Chip Huyen  
+  A practical guide to building AI systems in production, covering model selection, evaluation, MLOps, multi-agent systems, and scaling.
 
 [website]: https://www.michelenuovo.com
 [linkedin]: https://www.linkedin.com/in/michelenuovo/
