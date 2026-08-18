@@ -1,6 +1,8 @@
 ### Hi there, I'm [Michele Nuovo][website] 👋 
 
-[![Website](https://img.shields.io/website?label=michelenuovo.com&style=for-the-badge&url=https%3A%2F%2Fwww.michelenuovo.com)](https://www.michelenuovo.com)
+Java / Spring Boot Developer • Clean Code Advocate • Cloud & AI Explorer
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-michelenuovo.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.michelenuovo.com)
 
 ## I'm a Java Software Developer
 
@@ -34,31 +36,51 @@
 
 <br />
 
-### Books I recommend for software engineers 📚
+### Books that helped me grow as a developer 📚
 
-- 🧠 **The Pragmatic Programmer** by David Thomas & Andrew Hunt  
-  A must-read for becoming a more professional developer. It focuses on mindset, responsibility, avoiding duplication, designing for change, and staying current with technology. The updated 20th-anniversary edition makes it even more relevant.
+> 🧠 **The Pragmatic Programmer** by David Thomas & Andrew Hunt  
+> A must-read for becoming a more professional developer. It focuses on mindset, responsibility, avoiding duplication, designing for change, and staying current with technology. The updated 20th-anniversary edition makes it even more relevant.
 
-- ✨ **Clean Code** by Robert C. Martin  
-  A classic on writing readable and maintainable code. It is still valuable for naming, structure, and testing, even if some examples and rules have aged.
+<br />
 
-- 🏗️ **Fundamentals of Software Architecture** by Mark Richards & Neil Ford  
-  A great introduction to software architecture. It covers architectural styles, trade-offs, fitness functions, and documenting decisions that matter later.
+> ✨ **Clean Code** by Robert C. Martin  
+> A classic on writing readable and maintainable code. It remains valuable for naming, structure, and testing, even if some examples and rules have aged.
 
-- 🚀 **Head First Software Architecture** by Mark Richards & Neal Ford  
-  A more beginner-friendly and visual companion to architecture concepts, ideal if you want a simpler entry point.
+<br />
 
-- 🔄 **Refactoring** by Martin Fowler  
-  One of the most practical books for real-world development. It explains how to improve existing code safely without changing its behavior.
+> 🧱 **Clean Architecture** by Robert C. Martin  
+> Useful for learning how to structure systems so business logic stays independent from frameworks and tools.
 
-- 🎨 **Head First Design Patterns** by Eric Freeman & Elisabeth Robson  
-  A friendly introduction to common design patterns and how they help create flexible and maintainable systems.
+<br />
 
-- 🧱 **Clean Architecture** by Robert C. Martin  
-  Useful for learning how to structure systems so business logic stays independent from frameworks and tools.
+> 🏗️ **Fundamentals of Software Architecture** by Mark Richards & Neil Ford  
+> A great introduction to software architecture. It covers architectural styles, trade-offs, fitness functions, and documenting decisions that matter later.
 
-- 🤖 **AI Engineering** by Chip Huyen  
-  A practical guide to building AI systems in production, covering model selection, evaluation, MLOps, multi-agent systems, and scaling.
+<br />
+
+> 🚀 **Head First Software Architecture** by Mark Richards & Neal Ford  
+> A more beginner-friendly and visual companion to architecture concepts, ideal if you want a simpler entry point.
+
+<br />
+
+> 🔄 **Refactoring** by Martin Fowler  
+> One of the most practical books for real-world development. It explains how to improve existing code safely without changing its behavior.
+
+<br />
+
+> 🎨 **Head First Design Patterns** by Eric Freeman & Elisabeth Robson  
+> A friendly introduction to common design patterns and how they help create flexible and maintainable systems.
+
+<br />
+
+> 🤖 **Spring AI in Action** by Craig Walls  
+> A practical guide to adding AI capabilities to Spring Boot applications without leaving the Java ecosystem. It shows how to build features like summaries and assistants using familiar Spring patterns.
+
+<br />
+
+> 🧠 **AI Engineering** by Chip Huyen  
+> A strong book for understanding how AI systems are built and scaled in production. It covers model selection, evaluation, MLOps, multi-agent systems, and deployment concerns.
+
 
 [website]: https://www.michelenuovo.com
 [linkedin]: https://www.linkedin.com/in/michelenuovo/
