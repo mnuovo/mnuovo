@@ -1,8 +1,9 @@
-### Hi there, I'm [Michele Nuovo][website] 👋 
+### Hi there, I'm Michele Nuovo 👋 
 
 Java / Spring Boot Developer • Clean Code Advocate • Cloud & AI Explorer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-michelenuovo.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.michelenuovo.com)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-michelenuovo.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.michelenuovo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michele%20Nuovo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelenuovo/)
 
 ## I'm a Java Software Developer
 
@@ -11,6 +12,13 @@ Java / Spring Boot Developer • Clean Code Advocate • Cloud & AI Explorer
 - 🌱 I apply clean code principles and SOLID design patterns to build reliable and maintainable software
 - 👯 I’m a proactive problem-solver who values collaboration, critical thinking, and strong communication
 - 📌 I’m currently open to contracting opportunities where I can contribute deep Java expertise and deliver business value
+
+### Certifications & Badges ☁️
+
+[![AWS Certified AI Practitioner](https://images.credly.com/size/160x160/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/)
+
 
 ### Connect with me:
 
@@ -26,6 +34,8 @@ Java / Spring Boot Developer • Clean Code Advocate • Cloud & AI Explorer
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![Mockito](https://img.shields.io/badge/Mockito-28A6E1?style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
+
+<br />
 
 [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
