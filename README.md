@@ -15,9 +15,11 @@ Java / Spring Boot Developer • Clean Code Advocate • Cloud & AI Explorer
 
 ### Certifications & Badges ☁️
 
-[![AWS Certified AI Practitioner](https://images.credly.com/size/160x160/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/)
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/)
+<p align="left">
+  <a href="https://www.credly.com/"><img src="https://images.credly.com/size/160x160/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" height="100" alt="AWS Certified AI Practitioner" /></a>
+  <a href="https://www.credly.com/"><img src="https://images.credly.com/size/160x160/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" alt="AWS Certified Cloud Practitioner" /></a>
+  <a href="https://www.credly.com/"><img src="https://images.credly.com/size/160x160/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" alt="AWS Certified Solutions Architect – Associate" /></a>
+</p>
 
 
 ### Connect with me:
