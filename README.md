@@ -31,67 +31,75 @@ Java / Spring Boot Developer • Clean Code Advocate • Cloud & AI Explorer
 
 ### Languages and Tools:
 
+#### Backend
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/)
 [![Mockito](https://img.shields.io/badge/Mockito-28A6E1?style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 <br />
 
-[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+#### Frontend / Full Stack
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+<br />
+
+#### Cloud / DevOps
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Unix_shell)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 <br />
+
+#### Database & Query Languages
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html)
+
+<br />
+
 
 ### Books that helped me grow as a developer 📚
 
-> 🧠 **The Pragmatic Programmer** by David Thomas & Andrew Hunt  
-> A must-read for becoming a more professional developer. It focuses on mindset, responsibility, avoiding duplication, designing for change, and staying current with technology. The updated 20th-anniversary edition makes it even more relevant.
+md
+### Books that helped me grow as a developer 📚
 
-<br />
+- 🧠 **The Pragmatic Programmer** by David Thomas & Andrew Hunt  
+  A must-read for becoming a more professional developer. It focuses on mindset, responsibility, avoiding duplication, designing for change, and staying current with technology. The updated 20th-anniversary edition makes it even more relevant.
 
-> ✨ **Clean Code** by Robert C. Martin  
-> A classic on writing readable and maintainable code. It remains valuable for naming, structure, and testing, even if some examples and rules have aged.
+- ✨ **Clean Code** by Robert C. Martin  
+  A classic on writing readable and maintainable code. It remains valuable for naming, structure, and testing, even if some examples and rules have aged.
 
-<br />
+- 🧱 **Clean Architecture** by Robert C. Martin  
+  Useful for learning how to structure systems so business logic stays independent from frameworks and tools.
 
-> 🧱 **Clean Architecture** by Robert C. Martin  
-> Useful for learning how to structure systems so business logic stays independent from frameworks and tools.
+- 🏗️ **Fundamentals of Software Architecture** by Mark Richards & Neil Ford  
+  A great introduction to software architecture. It covers architectural styles, trade-offs, fitness functions, and documenting decisions that matter later.
 
-<br />
+- 🚀 **Head First Software Architecture** by Mark Richards & Neal Ford  
+  A more beginner-friendly and visual companion to architecture concepts, ideal if you want a simpler entry point.
 
-> 🏗️ **Fundamentals of Software Architecture** by Mark Richards & Neil Ford  
-> A great introduction to software architecture. It covers architectural styles, trade-offs, fitness functions, and documenting decisions that matter later.
+- 🔄 **Refactoring** by Martin Fowler  
+  One of the most practical books for real-world development. It explains how to improve existing code safely without changing its behavior.
 
-<br />
+- 🎨 **Head First Design Patterns** by Eric Freeman & Elisabeth Robson  
+  A friendly introduction to common design patterns and how they help create flexible and maintainable systems.
 
-> 🚀 **Head First Software Architecture** by Mark Richards & Neal Ford  
-> A more beginner-friendly and visual companion to architecture concepts, ideal if you want a simpler entry point.
+- 🤖 **Spring AI in Action** by Craig Walls  
+  A practical guide to adding AI capabilities to Spring Boot applications without leaving the Java ecosystem. It shows how to build features like summaries and assistants using familiar Spring patterns.
 
-<br />
-
-> 🔄 **Refactoring** by Martin Fowler  
-> One of the most practical books for real-world development. It explains how to improve existing code safely without changing its behavior.
-
-<br />
-
-> 🎨 **Head First Design Patterns** by Eric Freeman & Elisabeth Robson  
-> A friendly introduction to common design patterns and how they help create flexible and maintainable systems.
-
-<br />
-
-> 🤖 **Spring AI in Action** by Craig Walls  
-> A practical guide to adding AI capabilities to Spring Boot applications without leaving the Java ecosystem. It shows how to build features like summaries and assistants using familiar Spring patterns.
-
-<br />
-
-> 🧠 **AI Engineering** by Chip Huyen  
-> A strong book for understanding how AI systems are built and scaled in production. It covers model selection, evaluation, MLOps, multi-agent systems, and deployment concerns.
+- 🧠 **AI Engineering** by Chip Huyen  
+  A strong book for understanding how AI systems are built and scaled in production. It covers model selection, evaluation, MLOps, multi-agent systems, and deployment concerns.
 
 
 [website]: https://www.michelenuovo.com
